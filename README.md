@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![photo](./meme.png)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=reborn-sama&hide=stars,issues&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reborn-sama&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
