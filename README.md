@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reborn-sama&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![photo](./meme.png)
+# Read Write Think
